@@ -1,6 +1,6 @@
-title: Python Project
+title: MessageMedia Messages Python
 plan:
-- title: Welcome
+- title: MessageMedia Messages Python
   statement: markdowns/welcome.md
 projects:
   python:
